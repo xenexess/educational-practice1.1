@@ -1,0 +1,6 @@
+id
+fullName
+invNum
+invType
+invPrice
+adress
